@@ -32,7 +32,7 @@
 						<div class="collapse navbar-collapse" id="collapsibleNavId">
 							<ul class="navbar-nav mx-auto mt-2 mt-lg-0 text-white">
 								<li class="nav-item">
-									<h2 class="mr-5"><xsl:value-of select="jornada/denominacion"/></h2>
+									<h1 class="mr-5"><xsl:value-of select="jornada/denominacion"/></h1>
 								</li>
 							</ul>
 						</div>
